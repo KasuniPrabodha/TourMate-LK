@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781616472859",
+    "project_id": "tourmatelk-a98cb",
+    "storage_bucket": "tourmatelk-a98cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781616472859:android:eaeb1a291c3a7df23de9be",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY84xYHoRqLGAQzaRE2k9MkTtjuAsXZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
