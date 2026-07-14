@@ -24,6 +24,7 @@
 * **Backend & Database**: Firebase Auth, Cloud Firestore
 * **APIs & Libraries**: Google Maps API (or Mapbox), Location Services
 
+---
 ## 📱 App UI Screenshots
 
 <p align="center">
