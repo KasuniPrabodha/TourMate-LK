@@ -3,7 +3,10 @@
 **TourMate LK** is a smart digital travel companion and personalized itinerary planner mobile application tailored for exploring Sri Lanka. Built using **Flutter** and **Firebase**, the app aims to provide tourists and locals with seamless, real-time location discovery and optimized tour guiding.
 
 ---
-
+<p align="center">
+  <img src="Screenshots/head.jpeg" width="30%" alt="Screen" />
+</p>
+---
 ## ✨ Key Features
 
 * 🗺️ **Interactive Maps & Search**: Easily discover nearby attractions, historical landmarks, and hidden gems across Sri Lanka.
