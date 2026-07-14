@@ -19,3 +19,11 @@
 * **Frontend**: Flutter (Dart)
 * **Backend & Database**: Firebase Auth, Cloud Firestore
 * **APIs & Libraries**: Google Maps API (or Mapbox), Location Services
+
+## 📱 App UI Screenshots
+
+<p align="center">
+  <img src="Screenshots/welcome.jpeg" width="30%" alt="Login Screen" />
+  <img src="Screenshots/signup.jpeg" width="30%" alt="Home Screen" />
+  <img src="Screenshots/login.jpeg" width="30%" alt="Itinerary Screen" />
+</p>
