@@ -1,17 +1,21 @@
-# final_project
+# 🌍 TourMate LK
 
-A new Flutter project.
+**TourMate LK** is a smart digital travel companion and personalized itinerary planner mobile application tailored for exploring Sri Lanka. Built using **Flutter** and **Firebase**, the app aims to provide tourists and locals with seamless, real-time location discovery and optimized tour guiding.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🗺️ **Interactive Maps & Search**: Easily discover nearby attractions, historical landmarks, and hidden gems across Sri Lanka.
+* 📅 **Smart Itinerary Planner**: Plan your trips by setting preferences like the number of travelers, travel dates, and budget.
+* 🚦 **Route Optimization**: Get the most efficient route for your trips to save time and travel smart.
+* 📂 **Saved Places & Trips**: Bookmark your favorite destinations and manage your planned itineraries on the go.
+* 📱 **User-Friendly UI**: A clean, modern, and intuitive user interface designed for seamless navigation.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+* **Frontend**: Flutter (Dart)
+* **Backend & Database**: Firebase Auth, Cloud Firestore
+* **APIs & Libraries**: Google Maps API (or Mapbox), Location Services
