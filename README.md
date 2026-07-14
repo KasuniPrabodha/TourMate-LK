@@ -23,7 +23,15 @@
 ## 📱 App UI Screenshots
 
 <p align="center">
-  <img src="Screenshots/welcome.jpeg" width="30%" alt="Login Screen" />
-  <img src="Screenshots/signup.jpeg" width="30%" alt="Home Screen" />
-  <img src="Screenshots/login.jpeg" width="30%" alt="Itinerary Screen" />
+  <img src="Screenshots/welcome.jpeg" width="30%" alt="Welcome Screen" />
+  <img src="Screenshots/signup.jpeg" width="30%" alt="SignUp Screen" />
+  <img src="Screenshots/login.jpeg" width="30%" alt="Login Screen" />
+  <img src="Screenshots/home.jpeg" width="30%" alt="Home Screen" />
+  <img src="Screenshots/explore.jpeg" width="30%" alt="Map Screen" />
+  <img src="Screenshots/places.jpeg" width="30%" alt="Places List Screen" />
+  <img src="Screenshots/place.jpeg" width="30%" alt="Place Description Screen" />
+  <img src="Screenshots/saved.jpeg" width="30%" alt="Saved Places Screen" />
+  <img src="Screenshots/planner.jpeg" width="30%" alt="Trip Planner Screen" />
+  <img src="Screenshots/trips.jpeg" width="30%" alt="Saved Trips Screen" />
+  <img src="Screenshots/itinerary.jpeg" width="30%" alt="Itinerary Screen" />
 </p>
